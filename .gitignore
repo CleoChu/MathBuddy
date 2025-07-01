@@ -1,0 +1,7 @@
+# Tmp files
+*/**/tmp*.*
+*/**/test*.*
+/TODO.md
+
+# Mac 
+.DS_Store
